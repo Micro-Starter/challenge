@@ -12,6 +12,14 @@ Create a micro-services starter collection based on various tools/frameworks ava
 ## #2 : Migration Plan
 Create a step by step plan to migrate existing monolithic application to micro-service architecture.
 
+#### Jul'18 : Break the Monolith 
+Break an existing monolithic application to multiple services 
+#### Aug'18 : Unite the Services
+Unite the service using API Gateway and implement inter process communication
+#### Sep'18 : Maintain the Scale
+Add health check, monitoring and failure handling capablity
+
+
 
 ## #3 : Data Sharing Strategies
 Implement various strategies to share data between multiple micro-services
